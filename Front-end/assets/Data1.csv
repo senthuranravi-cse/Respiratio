@@ -1,0 +1,601 @@
+Diseases,breathlessness,chest_pain,chills,cough,fatigue,high_fever,malaise,mucoid_sputum,phlegm,sweating,vomiting,weight_loss
+Pneumonia,1,1,1,1,1,1,1,0,0,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,0,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,0,1,1,0,1,1,0,0
+Pneumonia,1,1,1,0,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,0,1,0,1,1,0,0
+Pneumonia,0,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,0,0,0
+Pneumonia,1,1,1,1,1,1,0,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,0,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,0,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,0,1,1,0,1,1,0,0
+Pneumonia,1,1,1,0,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,0,1,0,1,1,0,0
+Pneumonia,0,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,0,0,0
+Pneumonia,1,1,1,1,1,1,0,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,0,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,0,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,0,1,1,0,1,1,0,0
+Pneumonia,1,1,1,0,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,0,1,0,1,1,0,0
+Pneumonia,0,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,0,0,0
+Pneumonia,1,1,1,1,1,1,0,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,0,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,0,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,0,1,1,0,1,1,0,0
+Pneumonia,1,1,1,0,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,0,1,0,1,1,0,0
+Pneumonia,0,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,0,0,0
+Pneumonia,1,1,1,1,1,1,0,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,0,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,0,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,0,1,1,0,1,1,0,0
+Pneumonia,1,1,1,0,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,0,1,0,1,1,0,0
+Pneumonia,0,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,0,0,0
+Pneumonia,1,1,1,1,1,1,0,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,0,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,0,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,0,1,1,0,1,1,0,0
+Pneumonia,1,1,1,0,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,0,1,0,1,1,0,0
+Pneumonia,0,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,0,0,0
+Pneumonia,1,1,1,1,1,1,0,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Pneumonia,1,1,1,1,1,1,1,0,1,1,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,0,0,1,0,0,0,0
+Bronchial Asthma,0,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,0,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,0,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,0,1
+Tuberculosis,1,1,1,1,0,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,0
+Tuberculosis,1,1,1,0,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,0,1,0,1,1,1,1
+Tuberculosis,0,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,0,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,0,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,0,1,1,0,1,0,0,0
+Common Cold,0,1,1,0,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,0,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,0,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,0,0,1,0,0,0,0
+Bronchial Asthma,0,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,0,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,0,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,0,1
+Tuberculosis,1,1,1,1,0,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,0
+Tuberculosis,1,1,1,0,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,0,1,0,1,1,1,1
+Tuberculosis,0,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,0,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,0,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,0,1,1,0,1,0,0,0
+Common Cold,0,1,1,0,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,0,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,0,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,0,0,1,0,0,0,0
+Bronchial Asthma,0,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,0,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,0,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,0,1
+Tuberculosis,1,1,1,1,0,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,0
+Tuberculosis,1,1,1,0,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,0,1,0,1,1,1,1
+Tuberculosis,0,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,0,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,0,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,0,1,1,0,1,0,0,0
+Common Cold,0,1,1,0,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,0,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,0,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,0,0,1,0,0,0,0
+Bronchial Asthma,0,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,0,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,0,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,0,1
+Tuberculosis,1,1,1,1,0,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,0
+Tuberculosis,1,1,1,0,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,0,1,0,1,1,1,1
+Tuberculosis,0,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,0,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,0,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,0,1,1,0,1,0,0,0
+Common Cold,0,1,1,0,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,0,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,0,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,0,0,1,0,0,0,0
+Bronchial Asthma,0,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,0,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,0,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,0,1
+Tuberculosis,1,1,1,1,0,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,0
+Tuberculosis,1,1,1,0,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,0,1,0,1,1,1,1
+Tuberculosis,0,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,0,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,0,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,0,1,1,0,1,0,0,0
+Common Cold,0,1,1,0,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,0,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,0,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,0,0,1,0,0,0,0
+Bronchial Asthma,0,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,0,0,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,1,0,1,0,1,0,0,0,0
+Bronchial Asthma,1,0,0,0,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,0,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,0,1
+Tuberculosis,1,1,1,1,0,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,0
+Tuberculosis,1,1,1,0,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,0,1,0,1,1,1,1
+Tuberculosis,0,1,1,1,1,1,1,0,1,1,1,1
+Tuberculosis,1,1,1,1,1,1,1,0,1,0,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,0,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,0,1,1,0,1,0,0,0
+Common Cold,0,1,1,0,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,0,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Common Cold,0,1,1,1,1,1,0,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Bronchial Asthma,1,0,0,1,1,1,0,1,0,0,0,0
+Tuberculosis,1,1,1,1,1,1,1,0,1,1,1,1
+Common Cold,0,1,1,1,1,1,1,0,1,0,0,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,0,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,0,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,0,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,0,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,0,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,0,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,0,0
+Heart attack,0,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,0,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
+Heart attack,1,1,0,0,0,0,0,0,0,1,1,0
